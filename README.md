@@ -28,7 +28,7 @@ Tadjer, Amine, Alyaev, Sergey, Miner, Dylan, Kuvaev, Igor, and Reidar Brumer Bra
 
 ### To cite the dataset itself:
 
-Miner, D., Kuvaev, I., Alyaev, S., & Rogii Inc. (2021). *The typelog from the geosteer-349ing world cup 2020 semi-finals.* https://github.com/alin256/gwc2020-semi350-unconventional-typelog.
+Miner, D., Kuvaev, I., Alyaev, S., & Rogii Inc. (2021). *The typelog from the geosteering world cup 2020 semi-finals.* https://github.com/alin256/gwc2020-semi-unconventional-typelog.
 
 ```
 @misc{semiunconventional,
