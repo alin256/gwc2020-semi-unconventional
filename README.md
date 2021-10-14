@@ -8,7 +8,7 @@ The log is discretized every half a foot and we normalize the values of the log 
 
 To cite the original paper describing Geosteering World Cup 2020 data:
 
-Tadjer, Amine, Alyaev, Sergey, Miner, Dylan, Kuvaev, Igor, and Reidar Brumer Bratvold. "Unlocking the Human Factor: Geosteering Decision Making as a Component of Drilling Operational Efficacy." Paper presented at the SPE/AAPG/SEG Unconventional Resources Technology Conference, Houston, Texas, USA, July 2021. doi: https://doi.org/10.15530/urtec-2021-5385
+Tadjer, Amine, Alyaev, Sergey, Miner, Dylan, Kuvaev, Igor, and Reidar Brumer Bratvold. "*Unlocking the Human Factor: Geosteering Decision Making as a Component of Drilling Operational Efficacy.*" Paper presented at the SPE/AAPG/SEG Unconventional Resources Technology Conference, Houston, Texas, USA, July 2021. doi: https://doi.org/10.15530/urtec-2021-5385
 
 ```
 @inproceedings{tadjer2021unlocking,
@@ -23,9 +23,7 @@ Tadjer, Amine, Alyaev, Sergey, Miner, Dylan, Kuvaev, Igor, and Reidar Brumer Bra
 
 To cite the dataset itself:
 
-Alyaev, S. (2021). *A dataset generator for geological stratum curves*. https://github.com/alin256/stratum-curve-dataset-generator.
-
-### Bibtex
+Miner, D., Kuvaev, I., Alyaev, S., & Rogii Inc. (2021). *The typelog from the geosteer-349ing world cup 2020 semi-finals.* https://github.com/alin256/gwc2020-semi350-unconventional-typelog.
 
 ```
 @misc{semiunconventional,
