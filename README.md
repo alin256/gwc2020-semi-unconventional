@@ -4,7 +4,10 @@ This repository contains the offset-well gamma-ray log  (typelog) from the Geost
 This synthetic log is built based on observation in the Middle Woodford formation, located in the South Central Oklahoma Oil Province (SCOOP) in the United States. 
 The log is discretized every half a foot and we normalize the values of the log to 0-1 interval.
 
-![Scaled Gamma-ray Log](https://github.com/alin256/gwc2020-semi-unconventional-typelog/blob/main/original_gamma.png)
+<img src="https://github.com/alin256/gwc2020-semi-unconventional-typelog/blob/main/original_gamma.png" 
+     width="300" 
+     title="Scaled Gamma-ray Log">
+
 
 ## How to Cite:
 
