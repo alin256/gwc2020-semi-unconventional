@@ -1,1 +1,2 @@
-# gwc2020-semi-unconventional-typelog
+# The typelog from the Geosteering World Cup 2020 semi-finals 
+
