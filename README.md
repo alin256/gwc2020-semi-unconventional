@@ -1,6 +1,6 @@
 # The typelog from the Geosteering World Cup 2020 semi-finals 
 
-This repository contains the offset-well gamma-ray log  (typelog) from the Geosteering World Cup 2020 semi-finals organized by Rogii Inc., the unconventional well described in **Tadjer et al. 2021**.
+This repository contains the offset-well gamma-ray log (typelog) from the Geosteering World Cup 2020 semi-finals organized by Rogii Inc., the unconventional well described in **Tadjer et al. 2021**. The data is in gr.csv.
 This synthetic log is built based on observation in the Middle Woodford formation, located in the South Central Oklahoma Oil Province (SCOOP) in the United States. 
 The log is discretized every half a foot and we normalize the values of the log to 0-1 interval.
 
