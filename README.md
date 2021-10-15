@@ -46,3 +46,5 @@ Miner, D., Kuvaev, I., Alyaev, S., & Rogii Inc. (2021). *The typelog from the Ge
 ## Acknowledgements 
 
 We thank [Rogii Inc.](https://rogii.com/) for allowing us to publish the data.
+
+The data is distributed under CC BY 4.0 license.
