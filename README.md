@@ -6,7 +6,18 @@ The log is discretized every half a foot and we normalize the values of the log 
 
 ## Usage
 
-To extract the 'interesting' region of near-reservoir data use **my_curve_data.py**:
+### All logs
+
+To extract all logs (only available near reservoir region) use **my_curve_all.py**:
+
+<img src="https://github.com/alin256/gwc2020-semi-unconventional-typelog/blob/main/figs/logs.png" 
+     width="300" 
+     title="Scaled Offset Logs for GWC 2020 Semifinal Unconventional">
+
+
+### Gamma-ray log in an extended region
+
+To extract the 'interesting' region of near-reservoir data use **my_curve_data_gr.py**:
 
 <img src="https://github.com/alin256/gwc2020-semi-unconventional-typelog/blob/main/original_gamma.png" 
      width="300" 
