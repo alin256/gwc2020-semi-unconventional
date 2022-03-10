@@ -20,7 +20,7 @@ To extract all logs (only available near reservoir region) use **my_curve_all.py
 To extract the 'interesting' region of near-reservoir data use **my_curve_data_gr.py**:
 
 <img src="https://github.com/alin256/gwc2020-semi-unconventional-typelog/blob/main/original_gamma.png" 
-     width="300" 
+     width="600" 
      title="Scaled Gamma-ray Log">
 
 
